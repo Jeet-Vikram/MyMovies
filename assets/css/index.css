@@ -1,0 +1,30 @@
+body{
+  background: black;
+}
+
+h2{
+  color: green;
+}
+
+h5{
+  color: Green;
+}
+
+.one > img{
+  height: 400px;
+}
+
+.two>img{
+  width:350px;
+  height: 200px;
+}
+
+footer{
+  background: #6b6e72;
+  text-align: center;
+}
+
+#copyright{
+  text-align: center;
+  background: Green;
+}
